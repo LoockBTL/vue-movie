@@ -12,4 +12,4 @@ Web applications to search for movies, series and so on. Has the ability to add 
 
 ## Demo
 
-- [Link](https://loockbtl.github.io/ReactComponents/)
+- [Link](https://loockbtl.github.io/vue-movie/)
